@@ -1,0 +1,29 @@
+.logo{
+    width:200px; height:100px;
+}
+.menu{
+    justify-content: left;
+    border-bottom: 3px darkolivegreen;
+    font-weight: 300;
+    text-align: left;
+    overflow: auto;
+    
+}
+.menu a{
+    color:darkseagreen;
+    padding-left: 0;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: rgb(62, 77, 21);
+}
+.button{
+    color:darkolivegreen;
+    font-family: sans-serif;
+    
+}
+.button a{color:darkolivegreen;}
+.button a:hover{
+    color:darkseagreen;
+}
+body{background-color: mintcream}
